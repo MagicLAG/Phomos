@@ -28,7 +28,7 @@ https://github.com/creatosis/zmk-config-Phomos
 
 ### the firmware in this repo has the next layout (note that the layout is made to work with spanish and english keyboard distribution):
 
-
+```
 / {
         keymap {
                 compatible = "zmk,keymap";
@@ -152,7 +152,4 @@ https://github.com/creatosis/zmk-config-Phomos
    &trans          &trans      &trans      &trans      &trans        &trans                    &trans        &trans    &trans    &trans    &trans    &trans    &trans        &trans
                         >;
                 };
-
-                
-
-        };
+```
