@@ -153,3 +153,4 @@ https://github.com/creatosis/zmk-config-Phomos
                         >;
                 };
 ```
+the "settings_reset-nice_nano_v2-zmk" is for unlinking the two keyboard halfs
