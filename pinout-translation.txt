@@ -1,0 +1,37 @@
+
+-LEFT-
+col0, 031 | D21
+col1, 022 | D4
+col2, 113 | D15
+col3, 017 | D2
+col4, 020 | D3
+col5, 104 | D9
+col6, 106 | D8
+
+row0, 029 | D20
+row1, 002 | D19
+row2, 115 | D18
+row3, 024 | D5
+row4, 100 | D6
+row5, 011 | D7
+
+-RIGHT-
+col0, 006 | D1
+col1, 008 | D0
+col2, 031 | D21
+col3, 029 | D20
+col4, 002 | D19
+col5, 115 | D18
+col6, 017 | D2
+col7, 104 | D8
+
+row0, 106 | D9
+row1, 100 | D6
+row2, 011 | D7
+row3, 022 | D4
+row4, 024 | D5
+row5, 020 | D3
+
+---------------------------------------------------------------------------------------------------------------------
+perma link layout zmk studio
+https://zmk-physical-layout-converter.streamlit.app/?layout=H4sIAAAAAAACA43Uu2rDUBCE4d5PcVBtjHZn17nUeYuQwkVSGVLEJjFC7-4Tx9jBhPxb6WhmEBIfaFq0Nmw3h_f97mN4bFO_7cHT69tmv91dgsumJ8_npLWpDV89GFfjsg2Hn1Obl7e9_e776fOU5R9LX-W_TxL0AX1Cv4beRJ8aNEgarGlwR4N7GjzAwMey2HVpYG9lewN7A3sDewN7I3sjeyN7I3sjeyN7I3sjeyvbO9h72d7B3sHewd7B3sneyd7J3sneyd7J3sneyd7L9gJ7le0F9gJ7gb3AXmQvshfZi-xF9iJ7kb3IXmX7APso2wfYB9gH2AfYB9kH2QfZB9kH2QfZB9kH2UfZPsE-y_YJ9gn2CfbXN8G_e5JyknKScpJyknKScpLyjc15-XK6ft_Ni_kIUG5_MBgMAAA%3D
