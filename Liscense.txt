@@ -1,0 +1,64 @@
+# LICENSES
+
+This repository contains multiple components under different licenses.
+Each part is licensed separately as described below.
+
+---
+
+## 1. Keyboard Design (Original Work)
+
+Author: MagicLAG
+
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+(CC BY-NC-SA 4.0)
+
+Summary:
+
+* You are free to use, modify, and share this design for non-commercial purposes.
+* You must give appropriate credit.
+* You must distribute derivatives under the same license.
+* Commercial use is NOT allowed without explicit permission from the author.
+
+Commercial licensing:
+For commercial use, please contact the author.
+
+Full license text:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+---
+
+## 2. KEA Choc Keycaps (Modified Work)
+
+Based on: KEA-choc-keycaps
+Original Author: KEA Workshop (© 2025 KEA Workshop)
+
+Modifications by: MagicLAG
+
+License: Creative Commons Attribution-NonCommercial 4.0 International
+(CC BY-NC 4.0)
+
+Summary:
+
+* You are free to use, modify, and share these keycaps for non-commercial purposes.
+* You must give appropriate credit to the original author.
+* Commercial use is NOT allowed.
+
+Source:
+https://github.com/klouderone/KEA-choc-keycaps
+
+Note:
+This component retains its original license. It is NOT covered by the ShareAlike (SA) terms of the keyboard design.
+
+Full license text:
+https://creativecommons.org/licenses/by-nc/4.0/
+
+---
+
+## 3. General Notes
+
+* This repository is NOT fully covered by a single license.
+* Each component must be used according to its respective license.
+* When redistributing, you must preserve this license file and all attributions.
+
+For questions regarding licensing or commercial use, please contact:
+magical.lagged@gmail.com
