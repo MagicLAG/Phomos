@@ -1,5 +1,6 @@
 # Phomos
 Phomos is a split, low-profile, ortholinear, hand-wired, hot-swappable, 3D printed, mechanical keyboard, Powered by ZMK. That anybody can make at home avoiding the use of a PCB.
+<img width="1920" height="1080" alt="Phomos-solo" src="https://github.com/user-attachments/assets/d7bd1b00-9bb4-4eed-9624-712658cfb56c" />
 
 ## Design choices are explained in this video:
 
